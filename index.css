@@ -1,0 +1,36 @@
+* {
+    margin: 2vh;
+    padding: 2vh;
+}
+
+h1{
+    font-size: 5em;
+}
+body {
+    margin: 3vh;
+}
+a {
+    margin: 0;
+    color: blue;
+    font-size: 5vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button {
+    border-radius: 20px;
+
+}
+#body-landing {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+p {
+    font-size: 2vw;
+    text-align: center;
+    margin: 0;
+}
+section {
+    border: black 2px;
+    border: solid;
+    border-radius: 10px;
+}
