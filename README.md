@@ -1,4 +1,4 @@
-Get Chucked!
+Get Chucked!!
 
 Get Chucked allows all user to discover all of the true* Chuck Norris facts. When a user can no longer handle the Chuck truth the UnChuck button is there for the rescue. The UnChuck button will deliver unquoted quotes from random famous folks. 
 
